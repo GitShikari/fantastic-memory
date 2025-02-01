@@ -1,5 +1,5 @@
 {
 	"ngrokAuthKey": "2rd2kmHepKaNcVZAxtfZ5S6NAER_2WhuEgYWLnNWHmiAXCTyL",
-	"ngrokPath" : "C:/users/style/OneDrive/Desktop/ngrok.exe",
+	"ngrokPath" : "ngrok",
 	"chatServerPort" : 8081
 }
